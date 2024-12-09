@@ -1,0 +1,54 @@
+/* Cambiar el color de los botones btn-success de Bootstrap */
+
+.presentacion{
+    height: auto;
+    width: 100%;
+    background-image: url(../img/fondo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 400px ;
+}
+.text-center{
+    color: black;
+    font-family:cursive;
+    font-size: 50px;
+
+}
+.subtitle{
+    color: black;
+    font-family:cursive;
+    font-size: 30px;
+    text-align: center;
+    
+}
+  /* Añadir un estilo personalizado a un botón */
+  .mi-boton {
+    font-size: 1.5rem;
+    padding: 10px 20px;
+    border-radius: 8px;
+  }
+  
+.col-md-4{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-decoration: dashed;
+    text-align: center;
+}
+
+.nav-pills{
+    
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-size: 20px;
+    font-family: cursive;
+    color: black;
+    
+}
